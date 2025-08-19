@@ -1,3 +1,5 @@
+⚠️ This repository has moved to https://git.jeena.net/jeena/jeena-zsh
+
 This is just my own oh-my-zsh theme.
 
 To set it up run:
